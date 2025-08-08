@@ -18,7 +18,7 @@
 	  "scripts": 
 	  [
 		{
-		  "path": "./uvlookup.lua"
+		  "path": "./uvlookup_patches.lua"
 		}
 	  ]
 	}
